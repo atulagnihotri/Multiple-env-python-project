@@ -11,3 +11,10 @@ updates:
       interval: "daily"
     # Allow up to 10 open pull requests for pip dependencies
     open-pull-requests-limit: 10
+    
+  - package-ecosystem: "pip" # See documentation for possible values
+    directory: "/envs/mlEnvPy39" # Location of package manifests
+    schedule:
+      interval: "daily"
+    # Allow up to 10 open pull requests for pip dependencies
+    open-pull-requests-limit: 10

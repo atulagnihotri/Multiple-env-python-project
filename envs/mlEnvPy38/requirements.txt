@@ -1,0 +1,21 @@
+# python=3.8.13
+# mlEnvPy38
+
+pandas==1.4.3
+numpy==1.22.4
+requests_kerberos==0.14.0
+pyarrow==9.0.0
+fastparquet==0.8.1
+
+jupyterlab==3.4.5
+
+scikit_learn==1.1.2
+xgboost==1.6.1
+lightgbm==3.3.2
+shap==0.40.0
+optuna==2.10.1
+
+seaborn==0.11.2
+matplotlib==3.5.3
+
+pip_audit==2.4.3

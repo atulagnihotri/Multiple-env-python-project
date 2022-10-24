@@ -7,7 +7,7 @@ requests_kerberos==0.14.0
 pyarrow==9.0.0
 fastparquet==0.8.1
 
-jupyterlab==3.4.5
+jupyterlab==3.5.0
 
 scikit_learn==1.1.2
 xgboost==1.6.1

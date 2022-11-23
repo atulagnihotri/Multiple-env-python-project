@@ -1,7 +1,7 @@
 # python=3.8.13
 # mlEnvPy38
 
-pandas==1.4.3
+pandas==1.5.2
 numpy==1.22.4
 requests_kerberos==0.14.0
 pyarrow==9.0.0

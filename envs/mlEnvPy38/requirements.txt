@@ -10,7 +10,7 @@ fastparquet==0.8.1
 jupyterlab==3.4.5
 
 scikit_learn==1.1.2
-xgboost==1.6.1
+xgboost==1.7.3
 lightgbm==3.3.2
 shap==0.40.0
 optuna==2.10.1
